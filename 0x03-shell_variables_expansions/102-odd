@@ -1,0 +1,2 @@
+#!/bin/bash
+past -d, -- | cur -d, -f1
