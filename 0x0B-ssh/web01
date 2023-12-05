@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#connects to my school saver
+ssh -i ~/.ssh/school umbutu@5454.122.341.23
